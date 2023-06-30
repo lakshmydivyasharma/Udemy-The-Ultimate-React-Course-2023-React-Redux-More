@@ -6,6 +6,7 @@ Course is divided into four main parts:
 5. Professional Dev: Everything combined into 2 profesional apps
 
 ## Section 2: Building Our First React App!
-Code
+react.new --> put this in a tab and it creates a brand new code sandbox with react starter template 
+a component in react is just a function and it returns JSX
 
 
