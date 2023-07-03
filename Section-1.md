@@ -7,6 +7,13 @@ Course is divided into four main parts:
 
 ## Section 2: Building Our First React App!
 react.new --> put this in a tab and it creates a brand new code sandbox with react starter template 
-a component in react is just a function and it returns JSX
+Code sand box with my notes:
+https://codesandbox.io/s/fervent-montalcini-qfvh9f?file=/src/App.js
 
+Codesandbox without notes:
+https://codesandbox.io/s/react-first-app-advice-52879f
 
+### Section 3: Watch Before You Start
+Just quick tips on how to succeed in the course 
+
+### Section 4: 
